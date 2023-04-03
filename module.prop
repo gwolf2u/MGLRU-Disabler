@@ -1,0 +1,6 @@
+id=mglru-disable
+name=MGLRU Disabler
+version=4.0
+versionCode=4
+author=gwolfu
+description=Checks every 30 seconds the status of MGLRU feature and disables it if enabled (prevent system hang on Nothing OS 1.5.3+)
